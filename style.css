@@ -13,7 +13,7 @@ body {
 }
 /* LEFT SIDE */
 .left-side{
-    background-color: yellow;
+    background-color: #B03052;
 }
 .left-container {
     margin-top: 600px;
@@ -87,13 +87,13 @@ body {
 .left-subject-value {
     padding: 0.01em 16px;
     text-align: center;
-    color: white;
+    color: rgb(234, 219, 219);
     background-color: black;
 }    
 /* RIGHT SIDE */
 .right-side {
     background-color: black;
-    color: white;
+    color: rgb(242, 229, 229);
 }
 .name-container {
     margin-top: 150px;
@@ -101,7 +101,7 @@ body {
 }
 .name-profile {
     width: 700px;
-    background-color: yellow;
+    background-color: #B03052;
     text-align: left;
     font-size: 60px;
     font-weight: bold;
@@ -125,7 +125,7 @@ body {
 .name-profile-divider-first {
     margin-bottom: 10px;
     height: 5px;
-    background-color: white;
+    background-color: rgb(134, 42, 42);
 }
 .name-profile-divider-last {
     margin-top: 10px;
@@ -167,7 +167,7 @@ body {
     margin-top: 105px;
 }
 .right-title-box {
-    background-color: white;
+    background-color: #ede6e8;
     color: black;
     width: 400px;
     padding-left: 50px;
@@ -183,13 +183,13 @@ body {
     font-size: 23px;
     font-weight: bold;
     margin-top: 25px;
-    color: yellow;
+    color: #B03052;
 }
 .right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
-    border-color: yellow;
+    border-color: #B03052;
     font-weight: bold;
 }
 .right-value-text {
@@ -216,7 +216,7 @@ body {
     text-align: -webkit-right;
 }
 .sosmed-content {
-    background-color: yellow;
+    background-color: #B03052;
     text-align: left;
     font-size: 25px;
     font-weight: bold;
