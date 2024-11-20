@@ -6,7 +6,7 @@ body {
 }
 .pp {
     position: absolute;
-    margin-left: 260px;
+    margin-left: 50px;
     margin-top: 70px;
     width: 400px;
     height: 400px;
@@ -66,6 +66,7 @@ body {
     margin-left: 10px;
 }
 .left-list-text {
+    margin-left: 20px;
     font-size: 23px;
     font-weight: bold;
     border-bottom-style: solid;
