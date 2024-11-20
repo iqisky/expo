@@ -55,6 +55,7 @@ body {
 .left-list-icon {
     width: 50px;
     margin-bottom: 20px;
+    margin-left: 5px;
 }
 .left-list.text {
     border-bottom-style: solid;
